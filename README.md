@@ -24,9 +24,6 @@ A step-by-step series of examples that tell you how to get a development environ
 
 2. **Run the executeable**:
   Navigate to the "dist" directory and run the executeable file
-  ```bash 
-  py fileOrganizer.py
-
 
 ### What I Learned
 
