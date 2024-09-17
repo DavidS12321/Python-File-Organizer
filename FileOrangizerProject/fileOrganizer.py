@@ -42,7 +42,8 @@ def main():
         ".jar": "Jar Files",
         ".psd": "Other file types",
         ".json": "Other file types",
-        ".dll": "Other file types"
+        ".dll": "Other file types",
+        ".aab": "Other file types"
     }
     # Append source path to destination directories
     dest_directories = {ext: os.path.join(src_path, dest) for ext, dest in dest_directories.items()}

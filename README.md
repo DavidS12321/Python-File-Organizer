@@ -20,10 +20,12 @@ A step-by-step series of examples that tell you how to get a development environ
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/python-file-organizer.git
+   git clone https://github.com/DavidS12321/Python-File-Organizer.git
 
 2. **Run the executeable**:
   Navigate to the "dist" directory and run the executeable file
+  ```bash
+  
 
 ## What I Learned
 
